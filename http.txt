@@ -1,0 +1,609 @@
+File: http.cap
+Filter: any
+
+No.1
+
+Time: Thu May 13 18:17:07 2004
+Len: 62
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 65.208.228.223
+
+protocol: TCP
+SRC port: 3372
+DST port: 80
+
+
+No.2
+
+Time: Thu May 13 18:17:08 2004
+Len: 62
+
+Header:
+SRC ip: 65.208.228.223
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3372
+
+
+No.3
+
+Time: Thu May 13 18:17:08 2004
+Len: 54
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 65.208.228.223
+
+protocol: TCP
+SRC port: 3372
+DST port: 80
+
+
+No.4
+
+Time: Thu May 13 18:17:08 2004
+Len: 533
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 65.208.228.223
+
+protocol: TCP
+SRC port: 3372
+DST port: 80
+
+
+No.5
+
+Time: Thu May 13 18:17:08 2004
+Len: 54
+
+Header:
+SRC ip: 65.208.228.223
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3372
+
+
+No.6
+
+Time: Thu May 13 18:17:08 2004
+Len: 1434
+
+Header:
+SRC ip: 65.208.228.223
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3372
+
+
+No.7
+
+Time: Thu May 13 18:17:09 2004
+Len: 54
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 65.208.228.223
+
+protocol: TCP
+SRC port: 3372
+DST port: 80
+
+
+No.8
+
+Time: Thu May 13 18:17:09 2004
+Len: 1434
+
+Header:
+SRC ip: 65.208.228.223
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3372
+
+
+No.9
+
+Time: Thu May 13 18:17:09 2004
+Len: 54
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 65.208.228.223
+
+protocol: TCP
+SRC port: 3372
+DST port: 80
+
+
+No.10
+
+Time: Thu May 13 18:17:09 2004
+Len: 1434
+
+Header:
+SRC ip: 65.208.228.223
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3372
+
+
+No.11
+
+Time: Thu May 13 18:17:09 2004
+Len: 1434
+
+Header:
+SRC ip: 65.208.228.223
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3372
+
+
+No.12
+
+Time: Thu May 13 18:17:09 2004
+Len: 54
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 65.208.228.223
+
+protocol: TCP
+SRC port: 3372
+DST port: 80
+
+
+No.13
+
+Time: Thu May 13 18:17:09 2004
+Len: 89
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 145.253.2.203
+
+protocol: UDP
+SRC port: 3009
+DST port: 53
+
+
+No.14
+
+Time: Thu May 13 18:17:09 2004
+Len: 1434
+
+Header:
+SRC ip: 65.208.228.223
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3372
+
+
+No.15
+
+Time: Thu May 13 18:17:10 2004
+Len: 54
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 65.208.228.223
+
+protocol: TCP
+SRC port: 3372
+DST port: 80
+
+
+No.16
+
+Time: Thu May 13 18:17:10 2004
+Len: 1434
+
+Header:
+SRC ip: 65.208.228.223
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3372
+
+
+No.17
+
+Time: Thu May 13 18:17:10 2004
+Len: 188
+
+Header:
+SRC ip: 145.253.2.203
+DST ip: 145.254.160.237
+
+protocol: UDP
+SRC port: 53
+DST port: 3009
+
+
+No.18
+
+Time: Thu May 13 18:17:10 2004
+Len: 775
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 216.239.59.99
+
+protocol: TCP
+SRC port: 3371
+DST port: 80
+
+
+No.19
+
+Time: Thu May 13 18:17:10 2004
+Len: 54
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 65.208.228.223
+
+protocol: TCP
+SRC port: 3372
+DST port: 80
+
+
+No.20
+
+Time: Thu May 13 18:17:10 2004
+Len: 1434
+
+Header:
+SRC ip: 65.208.228.223
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3372
+
+
+No.21
+
+Time: Thu May 13 18:17:10 2004
+Len: 1434
+
+Header:
+SRC ip: 65.208.228.223
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3372
+
+
+No.22
+
+Time: Thu May 13 18:17:10 2004
+Len: 54
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 65.208.228.223
+
+protocol: TCP
+SRC port: 3372
+DST port: 80
+
+
+No.23
+
+Time: Thu May 13 18:17:10 2004
+Len: 1434
+
+Header:
+SRC ip: 65.208.228.223
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3372
+
+
+No.24
+
+Time: Thu May 13 18:17:10 2004
+Len: 54
+
+Header:
+SRC ip: 216.239.59.99
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3371
+
+
+No.25
+
+Time: Thu May 13 18:17:11 2004
+Len: 54
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 65.208.228.223
+
+protocol: TCP
+SRC port: 3372
+DST port: 80
+
+
+No.26
+
+Time: Thu May 13 18:17:11 2004
+Len: 1484
+
+Header:
+SRC ip: 216.239.59.99
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3371
+
+
+No.27
+
+Time: Thu May 13 18:17:11 2004
+Len: 214
+
+Header:
+SRC ip: 216.239.59.99
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3371
+
+
+No.28
+
+Time: Thu May 13 18:17:11 2004
+Len: 54
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 216.239.59.99
+
+protocol: TCP
+SRC port: 3371
+DST port: 80
+
+
+No.29
+
+Time: Thu May 13 18:17:11 2004
+Len: 1434
+
+Header:
+SRC ip: 65.208.228.223
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3372
+
+
+No.30
+
+Time: Thu May 13 18:17:11 2004
+Len: 54
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 65.208.228.223
+
+protocol: TCP
+SRC port: 3372
+DST port: 80
+
+
+No.31
+
+Time: Thu May 13 18:17:11 2004
+Len: 1434
+
+Header:
+SRC ip: 65.208.228.223
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3372
+
+
+No.32
+
+Time: Thu May 13 18:17:11 2004
+Len: 1434
+
+Header:
+SRC ip: 65.208.228.223
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3372
+
+
+No.33
+
+Time: Thu May 13 18:17:11 2004
+Len: 54
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 65.208.228.223
+
+protocol: TCP
+SRC port: 3372
+DST port: 80
+
+
+No.34
+
+Time: Thu May 13 18:17:11 2004
+Len: 1434
+
+Header:
+SRC ip: 65.208.228.223
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3372
+
+
+No.35
+
+Time: Thu May 13 18:17:11 2004
+Len: 54
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 65.208.228.223
+
+protocol: TCP
+SRC port: 3372
+DST port: 80
+
+
+No.36
+
+Time: Thu May 13 18:17:12 2004
+Len: 1484
+
+Header:
+SRC ip: 216.239.59.99
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3371
+
+
+No.37
+
+Time: Thu May 13 18:17:12 2004
+Len: 54
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 216.239.59.99
+
+protocol: TCP
+SRC port: 3371
+DST port: 80
+
+
+No.38
+
+Time: Thu May 13 18:17:12 2004
+Len: 478
+
+Header:
+SRC ip: 65.208.228.223
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3372
+
+
+No.39
+
+Time: Thu May 13 18:17:12 2004
+Len: 54
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 65.208.228.223
+
+protocol: TCP
+SRC port: 3372
+DST port: 80
+
+
+No.40
+
+Time: Thu May 13 18:17:25 2004
+Len: 54
+
+Header:
+SRC ip: 65.208.228.223
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3372
+
+
+No.41
+
+Time: Thu May 13 18:17:25 2004
+Len: 54
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 65.208.228.223
+
+protocol: TCP
+SRC port: 3372
+DST port: 80
+
+
+No.42
+
+Time: Thu May 13 18:17:37 2004
+Len: 54
+
+Header:
+SRC ip: 145.254.160.237
+DST ip: 65.208.228.223
+
+protocol: TCP
+SRC port: 3372
+DST port: 80
+
+
+No.43
+
+Time: Thu May 13 18:17:37 2004
+Len: 54
+
+Header:
+SRC ip: 65.208.228.223
+DST ip: 145.254.160.237
+
+protocol: TCP
+SRC port: 80
+DST port: 3372
+
+From 145.254.160.237	20	packages
+From 65.208.228.223	20	packages
+From 145.253.2.203	1	packages
+From 216.239.59.99	4	packages
+

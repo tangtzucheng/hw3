@@ -1,0 +1,345 @@
+File: ospf.cap
+Filter: any
+
+No.1
+
+Time: Thu Oct 21 20:19:20 2004
+Len: 78
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 224.0.0.5
+protocol: xxxxxx
+
+
+No.2
+
+Time: Thu Oct 21 20:19:30 2004
+Len: 78
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 224.0.0.5
+protocol: xxxxxx
+
+
+No.3
+
+Time: Thu Oct 21 20:19:40 2004
+Len: 78
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 224.0.0.5
+protocol: xxxxxx
+
+
+No.4
+
+Time: Thu Oct 21 20:19:50 2004
+Len: 78
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 224.0.0.5
+protocol: xxxxxx
+
+
+No.5
+
+Time: Thu Oct 21 20:20:00 2004
+Len: 78
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 224.0.0.5
+protocol: xxxxxx
+
+
+No.6
+
+Time: Thu Oct 21 20:20:10 2004
+Len: 78
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 224.0.0.5
+protocol: xxxxxx
+
+
+No.7
+
+Time: Thu Oct 21 20:20:12 2004
+Len: 78
+
+Header:
+SRC ip: 192.168.170.2
+DST ip: 224.0.0.5
+protocol: xxxxxx
+
+
+No.8
+
+Time: Thu Oct 21 20:20:13 2004
+Len: 82
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 224.0.0.5
+protocol: xxxxxx
+
+
+No.9
+
+Time: Thu Oct 21 20:20:14 2004
+Len: 82
+
+Header:
+SRC ip: 192.168.170.2
+DST ip: 224.0.0.5
+protocol: xxxxxx
+
+
+No.10
+
+Time: Thu Oct 21 20:20:14 2004
+Len: 66
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 192.168.170.2
+protocol: xxxxxx
+
+
+No.11
+
+Time: Thu Oct 21 20:20:14 2004
+Len: 66
+
+Header:
+SRC ip: 192.168.170.2
+DST ip: 192.168.170.8
+protocol: xxxxxx
+
+
+No.12
+
+Time: Thu Oct 21 20:20:14 2004
+Len: 206
+
+Header:
+SRC ip: 192.168.170.2
+DST ip: 192.168.170.8
+protocol: xxxxxx
+
+
+No.13
+
+Time: Thu Oct 21 20:20:14 2004
+Len: 86
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 192.168.170.2
+protocol: xxxxxx
+
+
+No.14
+
+Time: Thu Oct 21 20:20:14 2004
+Len: 66
+
+Header:
+SRC ip: 192.168.170.2
+DST ip: 192.168.170.8
+protocol: xxxxxx
+
+
+No.15
+
+Time: Thu Oct 21 20:20:14 2004
+Len: 66
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 192.168.170.2
+protocol: xxxxxx
+
+
+No.16
+
+Time: Thu Oct 21 20:20:14 2004
+Len: 66
+
+Header:
+SRC ip: 192.168.170.2
+DST ip: 192.168.170.8
+protocol: xxxxxx
+
+
+No.17
+
+Time: Thu Oct 21 20:20:14 2004
+Len: 70
+
+Header:
+SRC ip: 192.168.170.2
+DST ip: 192.168.170.8
+protocol: xxxxxx
+
+
+No.18
+
+Time: Thu Oct 21 20:20:14 2004
+Len: 142
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 192.168.170.2
+protocol: xxxxxx
+
+
+No.19
+
+Time: Thu Oct 21 20:20:14 2004
+Len: 98
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 224.0.0.5
+protocol: xxxxxx
+
+
+No.20
+
+Time: Thu Oct 21 20:20:14 2004
+Len: 326
+
+Header:
+SRC ip: 192.168.170.2
+DST ip: 224.0.0.6
+protocol: xxxxxx
+
+
+No.21
+
+Time: Thu Oct 21 20:20:14 2004
+Len: 278
+
+Header:
+SRC ip: 192.168.170.2
+DST ip: 224.0.0.6
+protocol: xxxxxx
+
+
+No.22
+
+Time: Thu Oct 21 20:20:14 2004
+Len: 94
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 224.0.0.5
+protocol: xxxxxx
+
+
+No.23
+
+Time: Thu Oct 21 20:20:14 2004
+Len: 98
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 224.0.0.5
+protocol: xxxxxx
+
+
+No.24
+
+Time: Thu Oct 21 20:20:15 2004
+Len: 318
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 224.0.0.5
+protocol: xxxxxx
+
+
+No.25
+
+Time: Thu Oct 21 20:20:18 2004
+Len: 110
+
+Header:
+SRC ip: 192.168.170.2
+DST ip: 224.0.0.6
+protocol: xxxxxx
+
+
+No.26
+
+Time: Thu Oct 21 20:20:19 2004
+Len: 78
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 224.0.0.5
+protocol: xxxxxx
+
+
+No.27
+
+Time: Thu Oct 21 20:20:19 2004
+Len: 110
+
+Header:
+SRC ip: 192.168.170.2
+DST ip: 192.168.170.8
+protocol: xxxxxx
+
+
+No.28
+
+Time: Thu Oct 21 20:20:19 2004
+Len: 78
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 192.168.170.2
+protocol: xxxxxx
+
+
+No.29
+
+Time: Thu Oct 21 20:20:20 2004
+Len: 110
+
+Header:
+SRC ip: 192.168.170.2
+DST ip: 224.0.0.6
+protocol: xxxxxx
+
+
+No.30
+
+Time: Thu Oct 21 20:20:20 2004
+Len: 78
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 192.168.170.2
+protocol: xxxxxx
+
+
+No.31
+
+Time: Thu Oct 21 20:20:23 2004
+Len: 82
+
+Header:
+SRC ip: 192.168.170.8
+DST ip: 224.0.0.5
+protocol: xxxxxx
+
+From192.168.170.8   19	packages
+From192.168.170.2   12	packages

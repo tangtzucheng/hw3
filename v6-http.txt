@@ -1,0 +1,666 @@
+File: v6-http.cap
+Filter: any
+
+No.1
+
+Time: Mon Aug  6 03:11:19 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.2
+
+Time: Mon Aug  6 03:11:20 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.3
+
+Time: Mon Aug  6 03:11:21 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.4
+
+Time: Mon Aug  6 03:11:38 2007
+Len: 90
+
+Header:
+SRC ip6:fe80::2d0:9ff:fee3:e8de
+DST ip6:ff02::16
+protocol:  xxxxxx
+
+
+No.5
+
+Time: Mon Aug  6 03:11:38 2007
+Len: 78
+
+Header:
+SRC ip6:::
+DST ip6:ff02::1:ff98:6e1
+protocol:  xxxxxx
+
+
+No.6
+
+Time: Mon Aug  6 03:11:39 2007
+Len: 211
+
+Header:
+SRC ip6:2001:6f8:102d:0:1033:c4c:7e57:b19e
+DST ip6:ff02::fb
+
+UDP protocol:
+SRC port: 5353
+DST port: 5353
+
+
+No.7
+
+Time: Mon Aug  6 03:11:39 2007
+Len: 192
+
+Header:
+SRC ip6:2001:6f8:102d:0:1033:c4c:7e57:b19e
+DST ip6:ff02::fb
+
+UDP protocol:
+SRC port: 5353
+DST port: 5353
+
+
+No.8
+
+Time: Mon Aug  6 03:11:39 2007
+Len: 211
+
+Header:
+SRC ip6:2001:6f8:102d:0:1033:c4c:7e57:b19e
+DST ip6:ff02::fb
+
+UDP protocol:
+SRC port: 5353
+DST port: 5353
+
+
+No.9
+
+Time: Mon Aug  6 03:11:40 2007
+Len: 211
+
+Header:
+SRC ip6:2001:6f8:102d:0:1033:c4c:7e57:b19e
+DST ip6:ff02::fb
+
+UDP protocol:
+SRC port: 5353
+DST port: 5353
+
+
+No.10
+
+Time: Mon Aug  6 03:11:40 2007
+Len: 192
+
+Header:
+SRC ip6:2001:6f8:102d:0:1033:c4c:7e57:b19e
+DST ip6:ff02::fb
+
+UDP protocol:
+SRC port: 5353
+DST port: 5353
+
+
+No.11
+
+Time: Mon Aug  6 03:11:40 2007
+Len: 199
+
+Header:
+SRC ip6:2001:6f8:102d:0:1033:c4c:7e57:b19e
+DST ip6:ff02::fb
+
+UDP protocol:
+SRC port: 5353
+DST port: 5353
+
+
+No.12
+
+Time: Mon Aug  6 03:11:41 2007
+Len: 283
+
+Header:
+SRC ip6:2001:6f8:102d:0:1033:c4c:7e57:b19e
+DST ip6:ff02::fb
+
+UDP protocol:
+SRC port: 5353
+DST port: 5353
+
+
+No.13
+
+Time: Mon Aug  6 03:11:43 2007
+Len: 283
+
+Header:
+SRC ip6:2001:6f8:102d:0:1033:c4c:7e57:b19e
+DST ip6:ff02::fb
+
+UDP protocol:
+SRC port: 5353
+DST port: 5353
+
+
+No.14
+
+Time: Mon Aug  6 03:11:43 2007
+Len: 90
+
+Header:
+SRC ip6:fe80::2d0:9ff:fee3:e8de
+DST ip6:ff02::16
+protocol:  xxxxxx
+
+
+No.15
+
+Time: Mon Aug  6 03:11:49 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.16
+
+Time: Mon Aug  6 03:11:50 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.17
+
+Time: Mon Aug  6 03:11:51 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.18
+
+Time: Mon Aug  6 03:12:19 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.19
+
+Time: Mon Aug  6 03:12:20 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.20
+
+Time: Mon Aug  6 03:12:21 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.21
+
+Time: Mon Aug  6 03:12:49 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.22
+
+Time: Mon Aug  6 03:12:50 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.23
+
+Time: Mon Aug  6 03:12:51 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.24
+
+Time: Mon Aug  6 03:13:19 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.25
+
+Time: Mon Aug  6 03:13:20 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.26
+
+Time: Mon Aug  6 03:13:21 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.27
+
+Time: Mon Aug  6 03:13:49 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.28
+
+Time: Mon Aug  6 03:13:50 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.29
+
+Time: Mon Aug  6 03:13:51 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.30
+
+Time: Mon Aug  6 03:14:19 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.31
+
+Time: Mon Aug  6 03:14:20 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.32
+
+Time: Mon Aug  6 03:14:21 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.33
+
+Time: Mon Aug  6 03:14:29 2007
+Len: 110
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1
+protocol:  xxxxxx
+
+
+No.34
+
+Time: Mon Aug  6 03:14:49 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.35
+
+Time: Mon Aug  6 03:14:50 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.36
+
+Time: Mon Aug  6 03:14:51 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.37
+
+Time: Mon Aug  6 03:15:19 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.38
+
+Time: Mon Aug  6 03:15:20 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.39
+
+Time: Mon Aug  6 03:15:21 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.40
+
+Time: Mon Aug  6 03:15:49 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.41
+
+Time: Mon Aug  6 03:15:50 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.42
+
+Time: Mon Aug  6 03:15:51 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.43
+
+Time: Mon Aug  6 03:16:19 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.44
+
+Time: Mon Aug  6 03:16:20 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.45
+
+Time: Mon Aug  6 03:16:21 2007
+Len: 86
+
+Header:
+SRC ip6:fe80::211:25ff:fe82:95b5
+DST ip6:ff02::1:ff82:95b5
+protocol:  xxxxxx
+
+
+No.46
+
+Time: Mon Aug  6 03:16:44 2007
+Len: 94
+
+Header:
+SRC ip6:2001:6f8:102d:0:2d0:9ff:fee3:e8de
+DST ip6:2001:6f8:900:7c0::2
+
+TCP protocol:
+source port: 59201
+dest   port: 80
+
+
+No.47
+
+Time: Mon Aug  6 03:16:44 2007
+Len: 82
+
+Header:
+SRC ip6:2001:6f8:900:7c0::2
+DST ip6:2001:6f8:102d:0:2d0:9ff:fee3:e8de
+
+TCP protocol:
+source port: 80
+dest   port: 59201
+
+
+No.48
+
+Time: Mon Aug  6 03:16:44 2007
+Len: 74
+
+Header:
+SRC ip6:2001:6f8:102d:0:2d0:9ff:fee3:e8de
+DST ip6:2001:6f8:900:7c0::2
+
+TCP protocol:
+source port: 59201
+dest   port: 80
+
+
+No.49
+
+Time: Mon Aug  6 03:16:44 2007
+Len: 314
+
+Header:
+SRC ip6:2001:6f8:102d:0:2d0:9ff:fee3:e8de
+DST ip6:2001:6f8:900:7c0::2
+
+TCP protocol:
+source port: 59201
+dest   port: 80
+
+
+No.50
+
+Time: Mon Aug  6 03:16:44 2007
+Len: 1506
+
+Header:
+SRC ip6:2001:6f8:900:7c0::2
+DST ip6:2001:6f8:102d:0:2d0:9ff:fee3:e8de
+
+TCP protocol:
+source port: 80
+dest   port: 59201
+
+
+No.51
+
+Time: Mon Aug  6 03:16:44 2007
+Len: 901
+
+Header:
+SRC ip6:2001:6f8:900:7c0::2
+DST ip6:2001:6f8:102d:0:2d0:9ff:fee3:e8de
+
+TCP protocol:
+source port: 80
+dest   port: 59201
+
+
+No.52
+
+Time: Mon Aug  6 03:16:44 2007
+Len: 74
+
+Header:
+SRC ip6:2001:6f8:900:7c0::2
+DST ip6:2001:6f8:102d:0:2d0:9ff:fee3:e8de
+
+TCP protocol:
+source port: 80
+dest   port: 59201
+
+
+No.53
+
+Time: Mon Aug  6 03:16:44 2007
+Len: 74
+
+Header:
+SRC ip6:2001:6f8:102d:0:2d0:9ff:fee3:e8de
+DST ip6:2001:6f8:900:7c0::2
+
+TCP protocol:
+source port: 59201
+dest   port: 80
+
+
+No.54
+
+Time: Mon Aug  6 03:16:44 2007
+Len: 74
+
+Header:
+SRC ip6:2001:6f8:102d:0:2d0:9ff:fee3:e8de
+DST ip6:2001:6f8:900:7c0::2
+
+TCP protocol:
+source port: 59201
+dest   port: 80
+
+
+No.55
+
+Time: Mon Aug  6 03:16:44 2007
+Len: 74
+
+Header:
+SRC ip6:2001:6f8:102d:0:2d0:9ff:fee3:e8de
+DST ip6:2001:6f8:900:7c0::2
+
+TCP protocol:
+source port: 59201
+dest   port: 80
+
+
+
+From fe80::211:25ff:fe82:95b5   34	packages
+From fe80::2d0:9ff:fee3:e8de	12	packages
+From 2001:6f8:102d:0:1033:c4c:7e57:b19e	8	packages
