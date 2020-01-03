@@ -661,6 +661,11 @@ dest   port: 80
 
 
 
-From fe80::211:25ff:fe82:95b5   34	packages
-From fe80::2d0:9ff:fee3:e8de	12	packages
-From 2001:6f8:102d:0:1033:c4c:7e57:b19e	8	packages
+From fe80::211:25ff:fe82:95b5	to	ff02::1:ff82:95b5	33	packages
+From fe80::2d0:9ff:fee3:e8de	to	ff02::16		2	packages
+From ::				to	ff02::1:ff98:6e1	1	packages
+From 2001:6f8:102d:0:1033:c4c:7e57:b19e		to	ff02::fb	8	packages
+From fe80::211:25ff:fe82:95b5		to	ff02::1		1	packages
+From 2001:6f8:102d:0:2d0:9ff:fee3:e8de		to	2001:6f8:900:7c0::2		6	packages
+From 2001:6f8:900:7c0::2		to	2001:6f8:102d:0:2d0:9ff:fee3:e8de	4	packages
+

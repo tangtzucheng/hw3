@@ -341,5 +341,8 @@ SRC ip: 192.168.170.8
 DST ip: 224.0.0.5
 protocol: xxxxxx
 
-From192.168.170.8   19	packages
-From192.168.170.2   12	packages
+From192.168.170.8   	to	224.0.0.5	13	packages
+From192.168.170.2	to	224.0.0.5	2	packages
+From192.168.170.8	to	192.168.170.2	6	packages
+From192.168.170.2	to	192.168.170.8	6	packages
+From192.168.170.2	to	224.0.0.6	4	packages

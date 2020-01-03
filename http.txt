@@ -602,8 +602,12 @@ protocol: TCP
 SRC port: 80
 DST port: 3372
 
-From 145.254.160.237	20	packages
-From 65.208.228.223	20	packages
-From 145.253.2.203	1	packages
-From 216.239.59.99	4	packages
+From 145.254.160.237	to	65.208.228.223		16	packages
+From 65.208.228.223	to	145.254.160.237		18	packages
+From 145.254.160.237	to	145.253.2.203		1	packages
+From 145.253.2.203	to	145.254.160.237		1	packages
+From 145.254.160.237	to	216.239.59.99		3	packages
+From 216.239.59.99	to	145.254.160.237		4	packages
+
+
 

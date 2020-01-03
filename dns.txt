@@ -533,7 +533,11 @@ SRC port: 53
 DST port: 1711
 
 
-From192.168.170.8   14	packages
-From192.168.170.20  14	packages
-From192.168.170.56  5	packages
-From217.13.4.24     5	packages
+From192.168.170.8	to	192.168.170.20	14	packages
+From192.168.170.20	to	192.168.170.8   14	packages
+From192.168.170.56  	to	217.13.4.24	5	packages
+From217.13.4.24     	to	192.168.170.56	5	packages
+
+
+
+
