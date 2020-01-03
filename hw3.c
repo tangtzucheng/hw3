@@ -131,13 +131,13 @@ int main(int argc,char *argv[]) {
     struct bpf_program filter;
     char errbuf[PCAP_ERRBUF_SIZE];
 
-    if (argc == 3) {
-        condition = argv[2];
+    if (argc == 4) {
+        condition = argv[3];
     }
-    printf("File: %s\nFilter: %s\n\n", argv[1], condition);
+    printf("File: %s\nFilter: %s\n\n", argv[2], condition);
 
-	handle = pcap_open_offline(argv[1], errbuf);
-    pcap_compile(handle, &filter, argv[2], 0, net);
+	handle = pcap_open_offline(argv[2], errbuf);
+    pcap_compile(handle, &filter, argv[3], 0, net);
     pcap_setfilter(handle, &filter);
     pcap_loop(handle,-1, packet_handler, NULL);
     pcap_close(handle);
